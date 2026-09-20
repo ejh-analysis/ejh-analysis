@@ -26,8 +26,8 @@ Data Scientist with a **BSc in Mathematics** and an **MSc in Data Science**. I s
 | Domain | Project | Core Stack | Deliverables & Highlights |
 | :--- | :--- | :--- | :--- |
 | **Commercial Analytics** | **[Commercial Customer Intelligence](https://github.com/ejh-analysis/Commercial-data-science)** | SQL (DuckDB), Python (XGBoost, SHAP) | In-process analytical SQL (window functions, RFM cohorts), class-balanced churn prediction (0.9644 ROC-AUC), SHAP explainability. |
-| **Sports Analytics** | **[FA WSL Scouting & Tactical Matrix](https://github.com/ejh-analysis/football-analytics-portfolio)** | R (Shiny, StatsBombR, Plotly, DT) | Decoupled ETL API ingestion, per-90 volume normalisation, live interactive scouting tool deployed on ShinyApps.io. |
-| **Quantitative Inference** | **[Kinematics & Bayesian Load Forecasting](https://github.com/ejh-analysis/football-analytics-portfolio/tree/main/python-portfolio)** | Python (PyMC, ArviZ, SciPy) | 25Hz optical tracking coordinate filtering (Savitzky-Golay), MCMC latent AR(1) state-space decay modeling ($\hat{R} \le 1.03$). |
+| **Sports Analytics** | **[FA WSL Scouting & Tactical Matrix](https://github.com/ejh-analysis/football-analytics-portfolio/tree/main/StatsBomb_Dashboard_1)** | R (Shiny, StatsBombR, Plotly, DT) | Decoupled ETL API ingestion, per-90 volume normalisation, live interactive scouting tool deployed on ShinyApps.io. |
+| **Quantitative Inference** | **[Kinematics & Bayesian Load Forecasting](https://github.com/ejh-analysis/football-analytics-portfolio/tree/main/tracking-kinematics-forecasting)** | Python (PyMC, ArviZ, SciPy) | 25Hz optical tracking coordinate filtering (Savitzky-Golay), MCMC latent AR(1) state-space decay modeling ($\hat{R} \le 1.03$). |
 
 ---
 
